@@ -1,0 +1,14 @@
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\bin\Debug\net7.0\DataAccessLayer.StudentManagementSystem.deps.json
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\bin\Debug\net7.0\DataAccessLayer.StudentManagementSystem.runtimeconfig.json
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\bin\Debug\net7.0\DataAccessLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\bin\Debug\net7.0\DataAccessLayer.StudentManagementSystem.pdb
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.csproj.AssemblyReference.cache
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.AssemblyInfoInputs.cache
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.AssemblyInfo.cs
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\refint\DataAccessLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.pdb
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\DataAccessLayer.StudentManagementSystem.genruntimeconfig.cache
+D:\C#\StudentManagementSystem\DataAccessLayer.StudentManagementSystem\obj\Debug\net7.0\ref\DataAccessLayer.StudentManagementSystem.dll

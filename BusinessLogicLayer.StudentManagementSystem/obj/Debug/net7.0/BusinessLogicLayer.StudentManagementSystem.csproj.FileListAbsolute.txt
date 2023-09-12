@@ -1,0 +1,15 @@
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\bin\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.deps.json
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\bin\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\bin\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.pdb
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.csproj.AssemblyReference.cache
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.AssemblyInfoInputs.cache
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.AssemblyInfo.cs
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\refint\BusinessLogicLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.pdb
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\ref\BusinessLogicLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\bin\Debug\net7.0\DataAccessLayer.StudentManagementSystem.dll
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\bin\Debug\net7.0\DataAccessLayer.StudentManagementSystem.pdb
+D:\C#\StudentManagementSystem\BusinessLogicLayer.StudentManagementSystem\obj\Debug\net7.0\BusinessLogicLayer.StudentManagementSystem.csproj.CopyComplete
